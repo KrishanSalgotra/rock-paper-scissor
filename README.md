@@ -14,6 +14,6 @@ How to Play
 
 You can play as many rounds as you like. Type quit to exit the game.
 
-Requirements
+Requirements:
 
 Python 3.x
